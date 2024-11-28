@@ -12,7 +12,7 @@
 {"key":"ddys","name":"低端","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"}, 
 {"key":"新6V","name":"弹幕 | 新6V[jar]","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"./lib/token.json$$$https://www.66ss.org$$$1"},
 {"key":"Libvio","name":"网盘 | LIBVIO[jar]","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.libvio.cc/$$$null"},
-{"key":"注释影视","name":"注释影视[jar]","type":3,"api":"csp_Gaze","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://gaze.run/$$$null"},
+{"key":"注释影视","name":"注释影视[jar]","type":3,"api":"csp_Gaze","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./XBPQ/Gaze.json","jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 {"key": "VidHub","name": "VidHub","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/VidHub.json","jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"}
 ],
 "parses":[

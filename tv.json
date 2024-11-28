@@ -5,22 +5,15 @@
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
-{"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js", "timeout":30}, 
+{"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60}, 
 {"key":"Bdys_spider","name":"弹幕 | 哔滴[jar]","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"./lib/token.json$$$https://www.xlys01.com/$$$null$$$1","timeout":30},
 {"key":"Wogg","name":"弹幕 | 玩偶[jar]","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://www.wogg.net/$$$null$$$1$$$./wogg.json"},
 {"key":"Mogg","name":"网盘 | 木偶哥哥[jar]","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
-{"key":"ddys","name":"弹幕 | 低端[jar]","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"}, 
+{"key":"ddys","name":"低端","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"}, 
 {"key":"新6V","name":"弹幕 | 新6V[jar]","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"./lib/token.json$$$https://www.66ss.org$$$1"},
-{"key":"Libvio","name":"网盘 | LIBVIO[jar]","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.libvio.cc/$$$null$$$1","timeout":30},
-{"key":"注释影视","name":"注释影视[jar]","type":3,"api":"csp_Gaze","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://gaze.run/$$$null$$$1","timeout":30},
-{"key":"vidhub","name":"vidhub[jar]","type":3,"api":"csp_Vidhub","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://vidhub.me/$$$null$$$1","timeout":30},
-{"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
-{"key":"drpy_js_哔哩直播","name":"弹幕 | 哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
-{"key":"drpy_js_哔哩影视","name":"弹幕 | 哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩影视.js"},
-{"key":"drpy_js_JustLive","name":"弹幕 | JustLive[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/JustLive.js"},
-{"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/虎牙直播.js"},
-{"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/310直播.js"}
+{"key":"Libvio","name":"网盘 | LIBVIO[jar]","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.libvio.cc/$$$null"},
+{"key":"注释影视","name":"注释影视[jar]","type":3,"api":"csp_Gaze","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://gaze.run/$$$null"},
+{"key": "VidHub","name": "VidHub","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/VidHub.json","jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},

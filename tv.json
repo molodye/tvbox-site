@@ -7,8 +7,8 @@
 "sites":[
 {"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60}, 
 {"key":"Bdys_spider","name":"弹幕 | 哔滴[jar]","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"./lib/token.json$$$https://www.xlys01.com/$$$null$$$1","timeout":60},
-{"key":"Wogg","name":"弹幕 | 玩偶[jar]","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://www.wogg.net/$$$null$$$1$$$./wogg.json"},
-{"key":"Mogg","name":"网盘 | 木偶哥哥[jar]","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
+{"key":"Wogg","name":"弹幕 | 玩偶[jar]","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://www.wogg.net/$$$null$$$1$$$./json/wogg.json"},
+{"key":"Mogg","name":"网盘 | 木偶哥哥[jar]","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$http://mogg.top/$$$noproxy$$$1$$$./json/wogg.json$$$MOGG"},
 {"key":"ddys","name":"低端","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"}, 
 {"key":"新6V","name":"弹幕 | 新6V[jar]","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"./lib/token.json$$$https://www.66ss.org$$$1"},
 {"key":"Libvio","name":"网盘 | LIBVIO[jar]","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.libvio.cc/$$$null"},

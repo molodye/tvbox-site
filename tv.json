@@ -11,7 +11,7 @@
 {"key":"ddys","name":"低端","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"}, 
 {"key":"Libvio","name":"网盘 | LIBVIO[jar]","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.libvio.fun/$$$null"},
 {"key":"光影范","name":"光影范[jar]","type":3,"api":"csp_Wiys","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.wiys.lol/$$$null"},
-{"key": "VidHub","name": "VidHub","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VidHub.json","jar": "./XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"}
+{"key": "VidHub","name": "VidHub","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VidHub.json$$$https://www.vidhub.me/$$$null"","jar": "./XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
